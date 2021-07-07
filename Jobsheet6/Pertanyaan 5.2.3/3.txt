@@ -1,0 +1,6 @@
+Proses swapping menukarkan sebuah proses keluar dari memori untuk sementara waktu ke sebuah penyimpanan sementara dengan sebuah proses lain yang sedang membutuhkan sejumlah alokasi memori untuk dieksekusi.
+
+    //swap
+    mahasiswa tmp - listMhs(idxMin);
+    listMhs(idxMin) = listMhs(i);
+    listMhs(i) - tmp;

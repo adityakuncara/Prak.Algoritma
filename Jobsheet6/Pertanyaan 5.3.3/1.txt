@@ -1,0 +1,1 @@
+Memasukan nilai idxMin dengan nilai I, kemudian dilakukan perulangan I dimana i+1 dan kurang sampat listMhs.length kemdian melakukan array pada index dengan variable j lebih kecil dari pada array index dengan nilai variable idxMin maka nikai idxMin di masukan di variable j

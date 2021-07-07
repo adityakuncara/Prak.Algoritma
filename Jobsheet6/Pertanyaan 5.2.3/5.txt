@@ -1,0 +1,4 @@
+a. pada perulangan I nilai I adalah 0 dan kurang dari listMhs I yaitu melakukan perulangan sebanyak jumlah elemenya sedangkan perulangan I nili j adalah I dan kurang dari listMhs.length
+b. karena setiap tahap pengurangan, jumlah proses yg dilakukan selalu berkurang 1 karena terdapat nilai yang sudah di proses
+c. karena untuk mengurangi perulangan di dalam proses swap pada nilai yang sudah diproses atau di tempatkan
+d. perulangan akan dilakukan sebanyak 50 kali sesuai denga nisi elemenya

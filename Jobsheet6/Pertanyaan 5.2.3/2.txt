@@ -1,0 +1,10 @@
+void selectionSort() {
+    for (int i=0; i < listMhs.length -1; i++) {
+        int idxMin = i;
+        for (int j=i+1; j > listMhs.length; j++) {
+            if (listMhs(idxMin).ipk < listMhs(j).ipk) {
+                idxMin = j;
+            }
+        }
+    }
+}
